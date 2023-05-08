@@ -1,0 +1,10 @@
+io/github/edwardUL99/querybuilder/query/custom/InsertOnConflictQuery$ConflictBuilder.class
+io/github/edwardUL99/querybuilder/query/select/PostgresOngoingJoin.class
+io/github/edwardUL99/querybuilder/query/modify/PostgresInsertStatement.class
+io/github/edwardUL99/querybuilder/query/modify/PostgresDeleteStatement.class
+io/github/edwardUL99/querybuilder/query/PostgresQuery.class
+io/github/edwardUL99/querybuilder/query/select/PostgresQueryDataSource.class
+io/github/edwardUL99/querybuilder/PostgresConnection.class
+io/github/edwardUL99/querybuilder/query/modify/PostgresUpdateStatement.class
+io/github/edwardUL99/querybuilder/query/custom/InsertOnConflictQuery.class
+io/github/edwardUL99/querybuilder/query/PostgresClause.class

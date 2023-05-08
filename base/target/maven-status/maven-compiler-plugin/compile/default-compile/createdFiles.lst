@@ -1,0 +1,12 @@
+io/github/edwardUL99/querybuilder/query/BaseClause.class
+io/github/edwardUL99/querybuilder/query/select/BaseQueryDataSource$OrderByField.class
+io/github/edwardUL99/querybuilder/query/select/BaseField.class
+io/github/edwardUL99/querybuilder/query/select/BaseOngoingJoin.class
+io/github/edwardUL99/querybuilder/query/modify/BaseUpdateStatement.class
+io/github/edwardUL99/querybuilder/query/select/BaseQueryDataSource.class
+io/github/edwardUL99/querybuilder/BaseConnection$StatementExecution.class
+io/github/edwardUL99/querybuilder/BaseConnection.class
+io/github/edwardUL99/querybuilder/query/BaseQuery.class
+io/github/edwardUL99/querybuilder/query/modify/BaseInsertStatement.class
+io/github/edwardUL99/querybuilder/query/modify/BaseDeleteStatement.class
+io/github/edwardUL99/querybuilder/query/BaseTypeConverter.class

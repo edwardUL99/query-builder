@@ -1,0 +1,10 @@
+/home/eddy/Coding/Java/query-builder/base/src/main/java/io/github/edwardUL99/querybuilder/query/modify/BaseUpdateStatement.java
+/home/eddy/Coding/Java/query-builder/base/src/main/java/io/github/edwardUL99/querybuilder/query/select/BaseField.java
+/home/eddy/Coding/Java/query-builder/base/src/main/java/io/github/edwardUL99/querybuilder/query/BaseClause.java
+/home/eddy/Coding/Java/query-builder/base/src/main/java/io/github/edwardUL99/querybuilder/query/modify/BaseInsertStatement.java
+/home/eddy/Coding/Java/query-builder/base/src/main/java/io/github/edwardUL99/querybuilder/query/BaseQuery.java
+/home/eddy/Coding/Java/query-builder/base/src/main/java/io/github/edwardUL99/querybuilder/BaseConnection.java
+/home/eddy/Coding/Java/query-builder/base/src/main/java/io/github/edwardUL99/querybuilder/query/select/BaseOngoingJoin.java
+/home/eddy/Coding/Java/query-builder/base/src/main/java/io/github/edwardUL99/querybuilder/query/modify/BaseDeleteStatement.java
+/home/eddy/Coding/Java/query-builder/base/src/main/java/io/github/edwardUL99/querybuilder/query/BaseTypeConverter.java
+/home/eddy/Coding/Java/query-builder/base/src/main/java/io/github/edwardUL99/querybuilder/query/select/BaseQueryDataSource.java

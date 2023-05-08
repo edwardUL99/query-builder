@@ -1,0 +1,9 @@
+io/github/edwardUL99/querybuilder/query/select/MySqlOngoingJoin.class
+io/github/edwardUL99/querybuilder/query/MySqlQuery.class
+io/github/edwardUL99/querybuilder/MySqlConnection.class
+io/github/edwardUL99/querybuilder/query/custom/ReplaceInsertQuery.class
+io/github/edwardUL99/querybuilder/query/select/MySqlQueryDataSource.class
+io/github/edwardUL99/querybuilder/query/modify/MySqlDeleteStatement.class
+io/github/edwardUL99/querybuilder/query/modify/MySqlInsertStatement.class
+io/github/edwardUL99/querybuilder/query/MySqlClause.class
+io/github/edwardUL99/querybuilder/query/modify/MySqlUpdateStatement.class

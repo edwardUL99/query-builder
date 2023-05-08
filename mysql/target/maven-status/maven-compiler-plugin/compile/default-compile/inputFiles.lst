@@ -1,0 +1,9 @@
+/home/eddy/Coding/Java/query-builder/mysql/src/main/java/io/github/edwardUL99/querybuilder/query/MySqlQuery.java
+/home/eddy/Coding/Java/query-builder/mysql/src/main/java/io/github/edwardUL99/querybuilder/query/MySqlClause.java
+/home/eddy/Coding/Java/query-builder/mysql/src/main/java/io/github/edwardUL99/querybuilder/query/select/MySqlOngoingJoin.java
+/home/eddy/Coding/Java/query-builder/mysql/src/main/java/io/github/edwardUL99/querybuilder/query/modify/MySqlUpdateStatement.java
+/home/eddy/Coding/Java/query-builder/mysql/src/main/java/io/github/edwardUL99/querybuilder/query/modify/MySqlInsertStatement.java
+/home/eddy/Coding/Java/query-builder/mysql/src/main/java/io/github/edwardUL99/querybuilder/query/modify/MySqlDeleteStatement.java
+/home/eddy/Coding/Java/query-builder/mysql/src/main/java/io/github/edwardUL99/querybuilder/MySqlConnection.java
+/home/eddy/Coding/Java/query-builder/mysql/src/main/java/io/github/edwardUL99/querybuilder/query/custom/ReplaceInsertQuery.java
+/home/eddy/Coding/Java/query-builder/mysql/src/main/java/io/github/edwardUL99/querybuilder/query/select/MySqlQueryDataSource.java

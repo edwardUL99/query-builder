@@ -1,0 +1,7 @@
+io/github/edwardUL99/querybuilder/utils/Instantiator.class
+io/github/edwardUL99/querybuilder/utils/MethodInstantiator.class
+io/github/edwardUL99/querybuilder/utils/ConstructorInstantiator.class
+io/github/edwardUL99/querybuilder/utils/Instantiators.class
+io/github/edwardUL99/querybuilder/utils/Scannable.class
+io/github/edwardUL99/querybuilder/utils/ImplementationScanner.class
+io/github/edwardUL99/querybuilder/utils/ReflectionsImplementationScanner.class
