@@ -1,9 +1,0 @@
-/home/eddy/Coding/Java/query-builder/postgres/src/main/java/io/github/edwardUL99/querybuilder/query/PostgresQuery.java
-/home/eddy/Coding/Java/query-builder/postgres/src/main/java/io/github/edwardUL99/querybuilder/PostgresConnection.java
-/home/eddy/Coding/Java/query-builder/postgres/src/main/java/io/github/edwardUL99/querybuilder/query/PostgresClause.java
-/home/eddy/Coding/Java/query-builder/postgres/src/main/java/io/github/edwardUL99/querybuilder/query/modify/PostgresUpdateStatement.java
-/home/eddy/Coding/Java/query-builder/postgres/src/main/java/io/github/edwardUL99/querybuilder/query/modify/PostgresInsertStatement.java
-/home/eddy/Coding/Java/query-builder/postgres/src/main/java/io/github/edwardUL99/querybuilder/query/modify/PostgresDeleteStatement.java
-/home/eddy/Coding/Java/query-builder/postgres/src/main/java/io/github/edwardUL99/querybuilder/query/custom/InsertOnConflictQuery.java
-/home/eddy/Coding/Java/query-builder/postgres/src/main/java/io/github/edwardUL99/querybuilder/query/select/PostgresOngoingJoin.java
-/home/eddy/Coding/Java/query-builder/postgres/src/main/java/io/github/edwardUL99/querybuilder/query/select/PostgresQueryDataSource.java

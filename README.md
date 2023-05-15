@@ -12,6 +12,31 @@ More Maven modules can theoretically be created to add support for different dia
 To select the implementation that you want to use, you import the api module (`io.github.edwardUL99.querybuilder:api:<version>`)
 and your implementation module. You can only have one imported at a time.
 
+## Download
+Currently, the project isn't on Maven Central, however, you can download it the following way. The following
+steps are applicable on Linux with Java 11 and upwards with Maven 3.6.3, but you can try it in your own environment:
+1. Clone the repo to your local machine
+2. Cd into the repository
+3. Run `mvn -N install` to install the parent POM
+4. Then run `mvn install` to build and install the whole project.
+
+You can then import the dependencies like so:
+```xml
+<dependencies>
+    <dependency>
+        <groupId>io.github.edwardUL99.querybuilder</groupId>
+        <artifactId>api</artifactId>
+        <version>0.1.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>io.github.edwardUL99.querybuilder</groupId>
+        <artifactId>mysql</artifactId>
+        <version>0.1.0-SNAPSHOT</version>
+        <!--or use postgres if you prefer -->
+    </dependency>
+</dependencies>
+```
+
 ## Caveat
 Due to the support for varying, the base api provides the ability to build SQL queries as dialect-agnostic as possible.
 Therefore, only the core features common between all SQL dialects are supported. Implementations may contain methods which
